@@ -1,5 +1,6 @@
 # Can't upload to git: ignore it
 smartphone-decimeter-2023/
+sdc2023/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
