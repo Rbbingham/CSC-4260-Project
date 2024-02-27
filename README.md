@@ -1,3 +1,6 @@
+<!-- NOTEBOOK -->
+Link to the report can be found [here](https://colab.research.google.com/drive/1hVoNBCrrLItWPwDqZ_MRBOsRt8OabITx)
+
 <!-- PROJECT DESCRIPTION -->
 # CSC 4260 Spring 2024 Term Project
 This is the Google Colab notebook for the Spring 2024 Term Project for Advanced Data Science and Applications. The dataset for this project can be found here: [Google Smartphone Decimeter Challenge 2023](https://www.kaggle.com/competitions/smartphone-decimeter-2023)
